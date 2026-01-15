@@ -26,9 +26,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              description="A React-based productivity tracker that helps users plan, manage, and monitor daily and weekly activities. Features include activity CRUD operations, status tracking, dashboard statistics, scheduling views, browser notifications, and persistent storage using JSON Server."
+              ghLink="https://github.com/Erasmus-K/Reminder-App"
+              demoLink="reminder-app-mocha.vercel.app"
             />
           </Col>
 
@@ -37,9 +37,9 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="Comprehensive construction site management application built with React and json-server, enabling admins, engineers, foremen, and clients to manage works, track progress, log labour, reconcile finances, monitor timelines, and receive real-time notifications."
+              ghLink="https://github.com/Erasmus-K/Construction-Site-Manager"
+              demoLink="https://construction-site-manager-alpha.vercel.app/"
             />
           </Col>
 
@@ -48,9 +48,9 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              description="UrbanKey – a modern React web app for managing real estate listings. Includes property CRUD operations, Material UI design, JSON Server mock backend, and a responsive, user-friendly interface."
+              ghLink="https://github.com/Erasmus-K/urbankey"
+              demoLink="urbankey-smoky.vercel.app"              
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Plant AI"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/Erasmus-K/NursePro"
+              demoLink="nurse-pro.vercel.app"
             />
           </Col>
 
