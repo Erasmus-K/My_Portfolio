@@ -13,37 +13,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I'm a motivated Software Developer passionate about solving
+              real-world problems through technology and improving community
+              lives through innovation.
               <br />
               <br />
-              I’m proficient in
+              I'm proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, TypeScript, Python, and Node.js{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — and I enjoy working across frontend, backend, and networking.
               <br />
               <br />
-              My key areas of interest include developing
+              My key areas of interest include
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Cybersecurity, AI/ML, Networking (MikroTik/WiFi ISP),{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and building PropTech and SaaS solutions.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              I love building projects with
+              <b className="purple"> React.js, Flask, </b>and{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">Express.js</b>, while exploring{" "}
+                <b className="purple">AI-driven analytics</b>.
               </i>
             </p>
           </Col>

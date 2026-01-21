@@ -17,7 +17,7 @@ function Footer() {
           <h3>Designed and Developed by Erasmus Kipkosgei</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} EK</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://x.com/ErasmusSaat"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/erasmus-kipkosgei-8362aa348/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://www.instagram.com/erasmus7456?igsh=MXJ2YW8ybGYycmlnYg=="
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

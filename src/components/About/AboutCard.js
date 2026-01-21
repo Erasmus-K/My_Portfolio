@@ -8,15 +8,15 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Erasmus Kipkosgei</span>{" "}
+            Hi everyone! I'm <span className="purple">Erasmus Kipkosgei</span>{" "}
             from <span className="purple">Nairobi, Kenya</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Netskyline Solutions</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            I'm a motivated <span className="purple">Software Developer</span> and founder of{" "}
+            <span className="purple">NetSkyline</span>, a local internet service initiative.
+            <br />I studied <span className="purple">Software Engineering</span> at{" "}
+            <span className="purple">Moringa School</span> and completed{" "}
+            <span className="purple">Cyber Security and Networking</span> at{" "}
+            <span className="purple">Eldohub</span>.
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
