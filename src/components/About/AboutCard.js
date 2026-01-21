@@ -15,7 +15,7 @@ function AboutCard() {
             <span className="purple">Software Developer</span> at{" "}
             <span className="purple">Netskyline Solutions</span>.
             <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
+            <span className="purple">Computing</span> from{" "}
             <span className="purple">BIT Mesra</span>.
             <br />
             <br />
